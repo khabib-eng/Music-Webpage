@@ -1,4 +1,4 @@
-The webpage is named /n
+The webpage is named \n
 music200.vercel.app
 its hosted on vercel and uses 
 custom server which is a fixed version of the repo of 
