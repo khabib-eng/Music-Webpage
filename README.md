@@ -8,4 +8,4 @@ the server uses hono instead of Next.js which was a little harder for vercel to 
 the project also uses vite as the bundeler (best for js and ts projects) 
 
 
-https:/music200.vercel.app
+https://music200.vercel.app
